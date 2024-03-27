@@ -1,3 +1,4 @@
+/*1. Write a program that prompts the user to enter an integer. Handle the InputMismatchException that might occur if the user enters a non-integer value. */
 package Anudipp;
 import java.util.InputMismatchException;
 import java.util.Scanner;
