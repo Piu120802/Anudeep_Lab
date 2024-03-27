@@ -1,4 +1,4 @@
-/*1. Create a Java program that acts as a simple calculator. ● The program should prompt the user to enter two numbers and an operator (+, -, *, /). ● Perform the corresponding calculation based on the operator. ● Handle potential exceptions, such as division by zero or invalid operator input. ● Display the result or an appropriate error message.*/
+/* 2. Write a program to check if today is independence day (15th August) or not using java MonthDay class. Using the method isBefore () find out if today is before or after the independence day. If today is before independence day then print “Independence day is yet to come this year." otherwise print “Independence day was already celebrated this year.” [Perform internet search if required.]*/
 package Anudipp;
 import java.time.LocalDate;
 import java.time.MonthDay;
